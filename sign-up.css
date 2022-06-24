@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,200&family=Roboto:wght@300;400;700&display=swap');
+
+body{
+    background-color: #eee;
+}
+
+.form-div{
+    margin: 50px auto 50px;
+    padding: 25px 15px 10px 15px;
+    border: 1px solid purple;
+    border-radius: 5px;
+    font-size: 1.1em;
+    font-family: 'montserrat' serif;
+}
+.form-div .login{
+    margin-top: 100px;
+}
+
+.logout{
+    color: red;
+}
